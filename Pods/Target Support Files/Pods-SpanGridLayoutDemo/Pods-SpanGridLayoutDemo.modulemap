@@ -1,0 +1,6 @@
+framework module Pods_SpanGridLayoutDemo {
+  umbrella header "Pods-SpanGridLayoutDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
